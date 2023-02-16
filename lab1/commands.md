@@ -31,4 +31,3 @@
 *  Task 9:
     *   echo karltamb | nc localhost 31222
     *   -> SysAdm-endex
-    * 
